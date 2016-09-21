@@ -1,0 +1,7 @@
+platform:ios, '8.0'
+target "02-GPUImage-Study" do
+pod 'GPUImage'
+end
+
+
+
